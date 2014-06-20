@@ -1,0 +1,51 @@
+form{
+    width:400px;
+    margin:auto auto;
+    border:1px solid #e1e1e1;
+}
+form fieldset{
+    border:0;
+    padding:15px 15px 0 15px;
+}
+form span{
+    display:block;
+    font:14px "Trebuchet MS", Arial, sans-serif;
+    font-weight:bold;
+    color:#333;
+    margin:5px 0 0 5px;
+}
+form input[type=text]{
+    color:#666;
+    font-weight:bold;
+    font:13px "Trebuchet MS", Arial, sans-serif;
+    width:250px;
+}
+form textarea{
+    width:250px;
+    height:150px;
+    text-align:left;
+        color:#666;
+    font-weight:bold;
+    font:13px "Trebuchet MS", Arial, sans-serif;
+}
+form  .btn{
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+background:#ccc;
+color:#333;
+font-weight:bolder;
+padding:3px;
+margin:15px;
+
+}
+
+#erro{
+    margin:0 auto;
+    border:1px solid #FF0000;
+    padding:5px;
+    color:#000;
+    font-weight:bolder;
+    font:16px Georgia, Arial, sans-serif;
+    width:400px;    
+}
